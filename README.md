@@ -31,7 +31,9 @@ Você pode baixar o modelo do projeto em:
 	+ **Nome e RA de cada um dos integrantes do grupo**. 
 	+ **Projeto em PDF**.
 
-	
+No **Titulo** do email informar apenas: **Entrega T7-projeto**
+
+
 **ATENÇÃO:**
 Sem o envio do email com estas informações o trabalho não será corrigido. 
 
