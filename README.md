@@ -1,0 +1,2 @@
+# T7-projeto
+Turma 7, PROJETO EM EMPREENDEDORISMO (4º-Manhã) 2021
