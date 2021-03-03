@@ -20,7 +20,7 @@ O site pode hospedado na web ou seus arquivos armazenados em um diretório web (
 
 O arquivo do projeto descrevendo a empresa deve estar em PDF.
 
-Você pode baixar o modelo do projeto em: 
+Você pode baixar o modelo do projeto em: [https://github.com/DanielGTI/T7-projeto/blob/main/PROJETO%20EM%20EMPREENDEDORISMO_2021-1.docx ]
 
 
 
@@ -28,7 +28,7 @@ Você pode baixar o modelo do projeto em:
 * Informar:
 	+ **Nome e RA de cada um dos integrantes do grupo**. 
 	+ **Projeto em PDF**.
-	+ **Endereço dos arquivos ou da hospedagem do site institucional** (Hospedado na AWS)
+
 	
 **ATENÇÃO:**
 Sem o envio do email com estas informações o trabalho não será corrigido. 
@@ -47,4 +47,4 @@ Em caso de dúvidas encaminhe-me um e-mail, sempre informando seu **RA**, **Nome
 
 
 ## Dicas
-Verificar o modelo do projeto em: 
+Verificar o modelo do projeto em: [https://github.com/DanielGTI/T7-projeto/blob/main/PROJETO%20EM%20EMPREENDEDORISMO_2021-1.docx]
