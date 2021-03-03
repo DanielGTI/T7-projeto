@@ -1,5 +1,5 @@
 ## PROJETO EM EMPREENDEDORISMO
-* **Dia:** Quarta-Feira (Pós-aula)
+* **Dia:** Segunda/Quarta-Feira (Pós-aula)
 * **Período:** manhã
 
 ## Descrição
